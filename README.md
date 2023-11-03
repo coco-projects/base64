@@ -61,7 +61,7 @@
 You can install the package via composer:
 
 ```bash
-composer require coco-project/base64 --no-dev
+composer require coco-project/base64
 ```
 
 ## Testing
